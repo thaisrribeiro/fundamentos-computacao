@@ -1,6 +1,6 @@
 # Lógica e Algoritmos em C
 
-Este repositório é dedicado ao registro da minha evolução na **Programação Estruturada**. Aqui, implemento resoluções para problemas lógicos e algoritmos fundamentais, utilizando a Linguagem C como base.
+Esta pasta é dedicada ao registro da minha evolução na **Programação Estruturada**. Aqui, implemento resoluções para problemas lógicos e algoritmos fundamentais, utilizando a Linguagem C como base.
 
 ## 🎯 Foco Principal
 * Entrada e Saída de Dados
